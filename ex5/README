@@ -1,0 +1,4 @@
+base文件夹用作产生一个库文件而设计，临时文件在base_build中，
+如果需要被src文件夹中调用头文件，则base中用到的公共头文件需要放置到include中
+其他文件的结构可参照Makefile说明
+具体参照http://blog.chinaunix.net/uid-20608849-id-360294.html修改获取，表示感谢！
